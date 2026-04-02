@@ -44,7 +44,7 @@ Sub ConcatenateInvoiceTexts_Advanced()
 
     Dim count As Integer
     Dim i As Integer
-    Dim invoiceText As String 'tétel = számla
+    Dim invoiceText As String
     Dim invoiceCount As Integer
     Dim currentInvoice As Variant
     Dim result As Range
