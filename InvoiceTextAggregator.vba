@@ -38,7 +38,7 @@ Sub ConcatenateInvoiceTexts()
 End Sub
 
 'Only works when ran from the sheet containing the pivot(ActiveSheet)!
-'Only needs if Work1 to be sorted by Invoice Numbers!
+'Only needs Work1 to be sorted by Invoice Numbers!
 
 Sub ConcatenateInvoiceTexts_Advanced()
 
